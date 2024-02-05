@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jaden\\OneDrive\\Documents\\Unreal Projects\\MyProject\\Intermediate\\Source\\MyProject.Build.cs",
+		"C:\\Users\\jaden\\OneDrive\\Documents\\Unreal Projects\\MyProject\\Intermediate\\Source\\MyProject.Target.cs",
+		"C:\\Users\\jaden\\OneDrive\\Documents\\Unreal Projects\\MyProject\\Intermediate\\Source\\MyProjectClient.Target.cs",
+		"C:\\Users\\jaden\\OneDrive\\Documents\\Unreal Projects\\MyProject\\Intermediate\\Source\\MyProjectEditor.Target.cs",
+		"C:\\Users\\jaden\\OneDrive\\Documents\\Unreal Projects\\MyProject\\Intermediate\\Source\\MyProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
